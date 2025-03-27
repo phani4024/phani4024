@@ -7,7 +7,7 @@ Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **
 
 ## 🔧 Languages & Tools:
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center;">
-<img src="	https://raw.githubusercontent.com/devicons/devicon…bservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYpllayW6brTCliPqIQfA6gCeJsgf6lzG9P5uSWPgL-9FQ3BiWJgclHRnfg2aTThRbsc&usqp=CAU" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40">
