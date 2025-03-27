@@ -7,7 +7,7 @@ Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **
 
 ## 🔧 Languages & Tools:
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40">
+<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40">
