@@ -31,9 +31,7 @@ I thrive on **solving complex problems** with **simple solutions** and continuou
 ---
 
 ## 🏅 Certifications:
-- **AWS Certified Solutions Architect**
-- **Docker Certified Associate**
-- **Certified Kubernetes Administrator (CKA)**
+- **AWS Certified Developer - Associate**
 
 ---
 
@@ -47,6 +45,7 @@ I thrive on **solving complex problems** with **simple solutions** and continuou
 
 ---
 
-🔗 [LinkedIn](www.linkedin.com/in/phanindhar-reddy-chitiki-025a18142)
+🔗 [LinkedIn](🔗 [LinkedIn](https://www.linkedin.com/in/phanindhar-reddy-chitiki)
+)
 
 
