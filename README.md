@@ -1,5 +1,5 @@
 ## 🚀 About Me:
-Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **cloud platforms** and **automation tools**. I thrive on solving complex problems with simple solutions. Check out my cool animated GIF below!  
+Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **cloud platforms** and **automation tools**. I thrive on solving complex problems with simple solutions. 
 
 ![Cool Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNjYWZtdWIydDI0NmE0aHEyNnZlZ3A1bWY4OXlydXgxNjR6bTdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif)
 
