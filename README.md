@@ -23,8 +23,8 @@ I thrive on **solving complex problems** with **simple solutions** and continuou
 ---
 
 ## 💻 Tech Stack:
-- **Languages**: ![Bash](https://img.shields.io/badge/bash-000000?style=flat&logo=bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Cloud**: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+- **Languages**: ![Bash](https://img.shields.io/badge/bash-000000?style=flat&logo=bash&logoColor=white) 
+- **Cloud**: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
 - **Containers & Orchestration**: ![Docker](https://img.shields.io/badge/docker-000000?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 - **DevOps Tools**: ![Jenkins](https://img.shields.io/badge/Jenkins-FF9800?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%231A1B29?style=flat&logo=ansible&logoColor=white)
 
