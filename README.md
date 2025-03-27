@@ -6,6 +6,7 @@ Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **
 🌐 I specialize in transforming complex infrastructures into **seamless, automated systems** using cutting-edge **Cloud Platforms** and **DevOps Tools**. From **AWS** to **Docker** and **Kubernetes**, I love creating efficient, scalable environments that are ready for **production-level challenges**.
 
 ## 🔧 Languages & Tools:
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40">
@@ -13,7 +14,7 @@ Hey there! I'm **Phanindhar**, a **DevOps enthusiast** who loves working with **
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40">
-
+</div>
 
 ✨ **Let’s make the impossible possible** by automating everything and embracing the power of **continuous delivery** and **cloud-native architecture**. If it’s scalable, efficient, and automated—count me in! 🔥
 
