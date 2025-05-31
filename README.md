@@ -50,7 +50,6 @@ I thrive on **solving complex problems** with **simple solutions** and continuou
 
 ---
 
-🔗 [LinkedIn](🔗 [LinkedIn](https://www.linkedin.com/in/phanindhar-reddy-chitiki)
-)
+
 
 
